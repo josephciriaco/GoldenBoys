@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "992393810853",
+    "firebase_url": "https://golden-boys-4ac48.firebaseio.com",
+    "project_id": "golden-boys-4ac48",
+    "storage_bucket": "golden-boys-4ac48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992393810853:android:7ed0b8ed1106777d934e4c",
+        "android_client_info": {
+          "package_name": "com.ciriaco.goldenboys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992393810853-rhn56jvdh7q92nsgnej5m78afpieuh1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ciriaco.goldenboys",
+            "certificate_hash": "05edb14f1d63b45ab77cdc52e067cd509a7ea07a"
+          }
+        },
+        {
+          "client_id": "992393810853-0bldfgpv4dm9eijak4tvjul8d68543hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClczxwdGhqwi7WNl4MSEVqV6v36NWG1l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992393810853-0bldfgpv4dm9eijak4tvjul8d68543hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
